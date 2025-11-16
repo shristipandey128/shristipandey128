@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/shristipandey128/shristi_portfolio](https://github.com/shristipandey128/shristi_portfolio)
+- 👨‍💻 All of my projects are available at [https://shristipandey128.github.io/shristi_portfolio/](https://shristipandey128.github.io/shristi_portfolio/)
 
 - 💬 Ask me about **ML, DL, AI, DSA, Java, to Web Development**
 
