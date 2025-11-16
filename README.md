@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pandeyshristi28@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QiRJlIeyAWZZE_6S-NuVU9_bSZOgFZvv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nJsXHvZTAX1exai1XKet48vtuZKPEisi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
