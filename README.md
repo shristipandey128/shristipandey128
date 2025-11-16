@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shristi Pandey</h1>
 <h3 align="center">Mastering the Tech Landscape</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+shristi+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+Ji)](https://git.io/typing-svg)
 
 
 
