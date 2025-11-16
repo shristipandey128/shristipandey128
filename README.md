@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+</div>
+
   <h2>👋 Hey, I'm <b>Shristi Pandey</b></h2>
   <h4>Software Engineer | Manage Network Expert | Builder of Useful Things</h4>
 </div>
